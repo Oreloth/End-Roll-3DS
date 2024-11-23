@@ -8,3 +8,6 @@ This game is a CIA homebrew file, it requires to have a CFW (Custome FirmWare) o
 
 # Thanks
 This game was realized with [Easy3DS](https://github.com/msikma/Easy3DS) project and run through [EasyRPG player](https://github.com/EasyRPG/Player).
+
+[You can buy me a coffee](https://ko-fi.com/oreloth)
+![image](https://github.com/user-attachments/assets/77f24cbe-f762-43dd-a4db-81bcea881039)
